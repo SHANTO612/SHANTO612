@@ -12,7 +12,7 @@
 - 🧠 **Iris Species Classification (Streamlit + ML)**
   > A simple machine learning app built with Streamlit and Random Forest to classify Iris flowers based on input features.
   
-  🌐 **[Live Demo]([https://shanto-iris-classification.streamlit.app](https://irishclassification-k9kub7zjunsn8fuml9e2vk.streamlit.app/))**  
+  🌐 **[Live Demo]([https://shanto-iris-classification.streamlit.app](https://irishclassification-k9kub7zjunsn8fuml9e2vk.streamlit.app/])**  
   📁 [View Project Repository](https://github.com/SHANTO612/Irish_Classification)
 
 ---
