@@ -9,7 +9,7 @@
 
 ### 🔗 Live Projects
 
-- 🌐 **[My Developer Portfolio](https://portfolio-website-75qa-git-main-shanto612s-projects.vercel.app/)**  
+- 🌐 **[My Developer Portfolio](https://portfolio-website-six-iota-93.vercel.app/)**  
   A full portfolio showcasing all my live projects, ML apps, contributions, and tech stack — built with Next.js and Shadcn UI.
 
 
